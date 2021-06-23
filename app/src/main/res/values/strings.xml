@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fitapp</string>
+    <string name="senha" />
+    <string name="flexfit" />
+    <string name="string_login" />
+    <string name="cadastro" />
+    <string name="usuario" />
+    <string name="fitapp">FitApp</string>
+    <string name="login1">Login</string>
+    <string name="usuario1">Usuario</string>
+    <string name="senha1">senha</string>
+    <string name="cadastro1">cadastro</string>
+    <string name="salvar">Salvar</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="registrar_checkpoint">Registrar CheckPoint</string>
+    <string name="acompanhar_evolucao">Acompanhar Evolução</string>
+    <string name="historico">Historico</string>
+    <string name="todo">TODO</string>
+    <string name="registrar">Registrar</string>
+    <string name="data">Data</string>
+    <string name="peso">Peso</string>
+</resources>
